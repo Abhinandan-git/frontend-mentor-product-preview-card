@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://www.frontendmentor.io/solutions/product-preview-using-css-flexbox-V1jdFY5BNe)
+- Live Site URL: [Solution Link](https://abhinandan-git.github.io/frontend-mentor-product-preview-card/)
 
 ## My process
 
